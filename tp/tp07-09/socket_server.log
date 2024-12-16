@@ -1,0 +1,18 @@
+[12/16/2024 05:50:25 PM] INFO:Server started on 127.0.0.1:17070
+[12/16/2024 05:50:37 PM] INFO:('127.0.0.1', 33470) connected
+[12/16/2024 05:50:42 PM] INFO:('127.0.0.1', 33482) connected
+[12/16/2024 05:51:16 PM] INFO:Server shut down
+[12/16/2024 06:00:58 PM] INFO:Server started on 127.0.0.1:17070
+[12/16/2024 06:01:00 PM] INFO:('127.0.0.1', 56984) connected
+[12/16/2024 06:01:01 PM] INFO:('127.0.0.1', 57000) connected
+[12/16/2024 06:01:36 PM] INFO:127.0.0.1:57000 sent a whisper to 127.0.0.1:56984 : s
+[12/16/2024 06:02:20 PM] INFO:127.0.0.1:56984 tried to whisper to Alan without success : h
+[12/16/2024 06:02:53 PM] INFO:Server shut down
+[12/16/2024 06:05:36 PM] INFO:Server started on 127.0.0.1:17070
+[12/16/2024 06:05:40 PM] INFO:('127.0.0.1', 45006) connected
+[12/16/2024 06:05:42 PM] INFO:('127.0.0.1', 45018) connected
+[12/16/2024 06:05:57 PM] INFO:127.0.0.1:45006 changed their alias to Justin
+[12/16/2024 06:06:04 PM] INFO:127.0.0.1:45018 tried to switch their alias to Justin which was already taken
+[12/16/2024 06:06:20 PM] INFO:127.0.0.1:45018 sent a broadcast : 127.0.0.1:45018 says : hello everyone
+
+[12/16/2024 06:07:03 PM] INFO:Server shut down
